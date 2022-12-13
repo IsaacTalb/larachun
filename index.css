@@ -1,0 +1,11 @@
+li{
+    display: inline;
+    background-color: black;
+    height: 40px;
+    width: 30px;
+    text-align: center;
+    justify-content: space-around;
+}
+a{
+    color: azure;
+}
